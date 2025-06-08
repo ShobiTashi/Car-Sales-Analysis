@@ -7,7 +7,7 @@ This project explores a dataset of car sales to uncover insights about how vario
 
 - PivotTables & PivotCharts
 - Slicers and conditional formatting
-- Data cleaning
+- Data cleaning using Trim function, Find and replace, and Number formatting
 - Custom dashboards (desktop-optimized)
 
 ---
